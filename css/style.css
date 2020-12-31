@@ -27,7 +27,7 @@ h4 {
   padding: 5px;
   margin: 20px 0 0 0;
 }
-.amiable h4{
+h4.amiable{
     background: linear-gradient(to right, #138934, #60E781);
 
 }
